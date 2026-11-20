@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Swagatika 👋
+🎓 B.Tech Computer Science Engineering Student
+💻 Aspiring Software Engineer
+🌱 Currently learning Java, Data Structures & Algorithms
+🚀 Interested in Software Development, AI, and Open Source
 
-<!--
-**Swagatika-12s/Swagatika-12s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech Stack
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- React
 
-Here are some ideas to get you started:
+Currently Learning
+- Data Structures & Algorithms
+- Problem Solving
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals
+- Build meaningful projects
+- Improve my coding skills
+- Contribute to open-source projects
