@@ -1,7 +1,11 @@
 Hi, I'm Swagatika 👋
+
 🎓 B.Tech Computer Science Engineering Student
+
 💻 Aspiring Software Engineer
+
 🌱 Currently learning Java, Data Structures & Algorithms
+
 🚀 Interested in Software Development, AI, and Open Source
 
 Tech Stack
